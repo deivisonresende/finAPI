@@ -32,4 +32,4 @@
 
 -[x] Não deve ser possível excluir uma conta não existente
 
--[x] Não deve ser possível efetuar um saque quando o saldo for insuficiente
+-[x] Não deve ser possível efetuar um saque quando o saldo for insuficiente.
